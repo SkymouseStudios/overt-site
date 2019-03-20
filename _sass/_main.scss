@@ -1,0 +1,17 @@
+h2 {
+	font-size: 5em;
+	text-align: right;
+	background-color: white;
+	display: inline-block;
+}
+
+.logo-overt-red {
+	color: #f00f50;
+	font-weight: 800;
+	font-size: 0.5em;
+}
+
+.site-footer, .site-header {
+	background-image: url(../assets/images/over-cover-image-blank.png);
+	background-size: cover;
+}
