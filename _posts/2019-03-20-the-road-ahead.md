@@ -1,9 +1,9 @@
 ---
 
-title: The Road Ahead
+title: Overt Network Launches OvertTV
 layout: post
 subtitle: A Guide to Branding
-img: ''
+img: '/assets/images/water.jpg'
 permalink: "/posts/the-road-ahead.html"
 
 ---
@@ -12,14 +12,14 @@ permalink: "/posts/the-road-ahead.html"
 
 There is so much "content" in the world. How much of it is making us happier? How much of it is making our lives better? Much of news, both liberal and conservative is dark and distressing. What is the purpose of life? What should we be doing with our free time? How can we build a better culture?
 
-These are questions that need to be asked.
+>These are questions that need to be asked.
 
 Our mission is to build a better Human Experience. We want to lead people to the truth. We must show people there is an order to the universe and a God that loves them.
 
-Men need to be men and women need to be women. We have lost our way and at OvertTV we hope to help people find the way. 
+We have lost our way and at OvertTV we hope to help people find the way. 
 
-#### What is the human experience?
-##### A mild-mannered manifesto.
+### What is the human experience?
+#### A mild-mannered manifesto.
 * You can learn something from everyone.
 * Listen more, talk less.
 * Seek the truth.
