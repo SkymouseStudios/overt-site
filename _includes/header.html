@@ -1,12 +1,16 @@
 <header class="site-header" role="banner">
 
+  <div class="overt-space">
+    
+  </div>
+
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-    <p>Fun descriptons design thing1</p>
+    <p class="site-sub">Wake Up.</p>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <p>Fun descriptons design thing2</p>
+    <p  class="site-sub">Take Action.</p>
 
     {%- if page_paths -%}
       <nav class="site-nav">
