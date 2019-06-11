@@ -2,8 +2,8 @@
 
 title: Overt Network Launches OvertTV
 layout: post
-subtitle: A Guide to Branding
-img: '/assets/images/water.jpg'
+description: What is OvertTV? Catholic Entertainment. But we're also more than just that. Our mission is to bring Catholic Truth to the next generation in the Catholic Church.
+image: '/assets/images/water.jpg'
 permalink: "/posts/the-road-ahead.html"
 
 ---
@@ -18,11 +18,11 @@ Our mission is to build a better Human Experience. We want to lead people to the
 
 We have lost our way and at OvertTV we hope to help people find the way. 
 
-### What is the human experience?
+### What is the Human Experience (HX)?
 #### A mild-mannered manifesto.
 * You can learn something from everyone.
 * Listen more, talk less.
-* Seek the truth.
+* Seek the Truth.
 * Make life less about you.
 * Explore the world in front of you.
 * Share the truth with others.
@@ -34,9 +34,10 @@ We have lost our way and at OvertTV we hope to help people find the way.
 
 So, keeping this all in mind, here are some of our ideas for what type of shows we hope to create.
 
-### The timeline
+### The Timeline
 - Late Night TV Show
 - Daily Thoughts on Catholicism
-- Uplifting shows
+- Livestreams at 10pm on Tuesdays and Thursdays
+- Uplifting Shows, helping people take action in their lives.
 - Read books from great Saints
 

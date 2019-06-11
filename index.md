@@ -14,3 +14,5 @@ Combining the Truth of the Catholic Church, our life experiences and a slice of 
 - <strong>Coming soon:</strong> We have some awesome shirts in the works
 
 🔴Join the Overt Crew for FREE ➡️ [http://eepurl.com/gd7-Fj](http://eepurl.com/gd7-Fj)
+
+<hr>
