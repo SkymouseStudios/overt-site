@@ -6,22 +6,19 @@ url: "https://overtnetwork.com" # the base hostname & protocol for your site, e.
 
 # Build settings
 markdown: kramdown
+
+sass:
+  style: compressed
+
+
+twitter_username: "Overt_TV"
+facebook_username: "OvertTV"
+instagram_username: "overt_TV"
+
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-sass:
-  style: compressed
-
-minima:
-  social_links:
-    twitter: "Overt_TV"
-    facebook: "overttv"
-    instagram: "overt_tv"
-
-    # youtube: overtTV
-    # youtube_channel: UCft-DKeEWYaV8y3oVPkFZbw
-    # youtube_channel_name: OvertTV
 
 google_analytics: UA-87360452-3
