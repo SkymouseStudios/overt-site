@@ -3,7 +3,6 @@ email: hello@overtnetwork.com
 description: >- # this means to ignore newlines until "baseurl:"
   Reach and engage Catholics with profound and actionable videos. #LogosRising
 url: "https://overtnetwork.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: overtTV
 
 # Build settings
 markdown: kramdown
@@ -17,12 +16,12 @@ sass:
 
 minima:
   social_links:
-    twitter: overt_tv
-    facebook: overttv
-    instagram: overt_tv
+    twitter: "Overt_TV"
+    facebook: "overttv"
+    instagram: "overt_tv"
 
-    youtube: overtTV
-    youtube_channel: UCft-DKeEWYaV8y3oVPkFZbw
-    youtube_channel_name: OvertTV
+    # youtube: overtTV
+    # youtube_channel: UCft-DKeEWYaV8y3oVPkFZbw
+    # youtube_channel_name: OvertTV
 
 google_analytics: UA-87360452-3
