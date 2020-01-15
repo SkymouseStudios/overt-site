@@ -1,10 +1,10 @@
 ---
 
-title: Overt Network Launches OvertTV
+title: Overt Network Launches Catholic Youtube Channel OvertTV
 layout: post
 description: What is OvertTV? Catholic Entertainment. But we're also more than just that. Our mission is to bring Catholic Truth to the next generation in the Catholic Church.
-image: '/assets/images/water.jpg'
-permalink: "/posts/the-road-ahead.html"
+image: '/assets/images/over-cover-image-v3.png'
+permalink: "/posts/overt-networ-launches-catholic-youtube-channel-overt-tv.html"
 
 ---
 
@@ -41,3 +41,4 @@ So, keeping this all in mind, here are some of our ideas for what type of shows 
 - Uplifting Shows, helping people take action in their lives.
 - Read books from great Saints
 
+<a class="button-subscribe" href="https://www.youtube.com/channel/UCft-DKeEWYaV8y3oVPkFZbw?sub_confirmation=1">Subscribe to OvertTV</a>

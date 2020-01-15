@@ -1,5 +1,5 @@
 h1, h2, h3 {
-	font-family: "futura-pt-condensed";
+	font-family: "futura";
 	font-weight: 400;
 }
 
@@ -11,6 +11,10 @@ h2 {
 	display: inline-block;
 }
 
+h3 {
+	font-size: 3em;
+}
+
 hr {
 	background-color: #efefef;
 	margin: 30px 0px;
@@ -20,6 +24,39 @@ hr {
 
 a {
 	color: #f00f50;
+}
+
+iframe {
+	margin: 30px auto;
+	display: block;
+}
+
+p > .inline-image:nth-child(odd) {
+	float: right;
+	margin-right: -40px;
+	margin-left: 20px;
+	border-radius: 10px;
+	max-width: 400px;
+}
+
+p > .inline-image:nth-child(even) {
+	float: left;
+	margin-left: -40px;
+	margin-right: 20px;
+	border-radius: 10px;
+	max-width: 400px;
+}
+
+.button-subscribe {
+	background-color: $red;
+	padding: 15px;
+	color: white;
+	border-radius: 5px;
+	margin: 40px auto;
+	display: block;
+	text-align: center;
+	width: 200px;
+	box-shadow: 4px 4px 20px #00000050
 }
 
 .overt-space {
@@ -44,13 +81,24 @@ a {
 }
 
 .post-list li {
-	padding: 1em;
 	box-shadow: 1px 1px 15px 2px #00000015;
 	transition: 0.5s;
+
+	img {
+		width: 100%;
+	}
 
 	&:hover {
 		box-shadow: 5px 5px 15px 2px #00000015;
 		transition: 0.5s;
+	}
+
+	div {
+		padding: 1em;
+	}
+
+	a {
+		font-size: 0.5em;
 	}
 }
 
@@ -83,12 +131,11 @@ a {
 }
 
 .site-footer {
-	background-image: url(../assets/images/over-cover-image-blank.png);
-	background-size: cover;
+	
 }
 
 .site-title {
-	font-family: "futura-pt-condensed", sans-serif;
+	font-family: "futura", sans-serif;
 	font-weight: 800;
 	font-style: normal;
 	display: block;
@@ -166,5 +213,3 @@ a {
 		text-align: center;
 	}
 }
-
-
