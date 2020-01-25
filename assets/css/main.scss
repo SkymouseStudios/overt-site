@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+h2 {
+	font-size: 5em;
+	text-align: right;
+	background-color: white;
+	display: inline-block;
+}
+
+.logo-overt-red {
+	color: red;
+	font-weight: 800;
+	font-size: 0.5em;
+}
+
+.page-content {
+	background-color: orange;
+	background-image: url(../assets/images/over-cover-image-blank.png);
+	background-size: cover;
+}
