@@ -6,7 +6,13 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     <p  class="site-sub">Take Action.</p>
     <div></div>
-    <p style="padding: 0px 30px 30px 0px" class="site-sub">We help Catholic teens and young adults understand Catholicism 🇻🇦, build community 👫  and be better humans ❤️</p>
+
+    <div>
+       {% include mailchimp.html %}
+
+      <p style="padding: 0px 30px 30px 0px" class="site-sub">We help Catholic teens and young adults understand Catholicism 🇻🇦, build community 👫  and be better humans ❤️</p>
+    </div>
+   
   </div>
 
   <div class="card-grid">

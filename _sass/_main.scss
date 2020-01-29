@@ -91,7 +91,7 @@ p > .inline-image:nth-child(even) {
 	z-index: 10;
 	left: 0px;
 	right: 0px;
-	top: 400px;
+	top: 475px;
 	max-width: 1000px;
 	margin: 0 auto;
 }
@@ -210,6 +210,10 @@ p > .inline-image:nth-child(even) {
 // Desktop Styles
 
 @media only screen and (min-width: 768px) {
+
+	.card-grid {
+		top: 400px;
+	}
 
 	.site-title {
 		margin: 40px;
